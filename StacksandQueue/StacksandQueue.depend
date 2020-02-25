@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581761065 source:c:\users\kunal\desktop\stacksandqueue\main.cpp
+	<iostream>
+	<stack>
+	<string.h>
+	<vector>
+	<algorithm>
+
